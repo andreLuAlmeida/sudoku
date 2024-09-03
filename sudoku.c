@@ -7,6 +7,7 @@
     #define EMPTY 0
     #define RECORDS_FILE "records.txt"
 
+    //testando
     // Função para exibir o grid
     void exibirGrid(int grid[SIZE][SIZE])
     {
