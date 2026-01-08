@@ -64,7 +64,7 @@ A função `podeColocar()` garante que um número:
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 * **Linguagem:** C
 * **Compilador:** GCC (MinGW)
