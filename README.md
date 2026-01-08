@@ -74,7 +74,7 @@ A função `podeColocar()` garante que um número:
 
 ---
 
-## ▶️ Como Compilar e Executar
+## Como Compilar e Executar
 
 ### Compilação
 
@@ -96,14 +96,14 @@ sudoku.exe
 
 ---
 
-## 📂 Arquivos Gerados
+## Arquivos Gerados
 
 * `records.txt` → armazena o ranking dos jogadores
 * `nome.txt` → armazena o nick do jogador atual
 
 ---
 
-## 👨‍💻 Autores
+## Autores
 
 * **André Almeida**
 * **Maria Eduarda Antunes**
@@ -111,7 +111,7 @@ sudoku.exe
 
 ---
 
-## 📚 Considerações Finais
+## Considerações Finais
 
 Durante o desenvolvimento deste projeto, foi necessário ir além do conteúdo apresentado em sala de aula. Embora o **algoritmo de backtracking não tenha sido abordado diretamente na disciplina de Algoritmos**, os integrantes do grupo realizaram **pesquisas adicionais por conta própria** para compreender e aplicar essa técnica na resolução do Sudoku.
 
